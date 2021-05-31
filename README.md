@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alphabetious
 - 👀 I’m interested in Computer Science
-- 🌱 I’m gonna be soonn 16 on 29th June 2021 :)
+- ⚙️ Good in JavaScript , Html and CSS
 
 
 <!---
