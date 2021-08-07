@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Alphabetious.I am Interested in Computer Science.I mostly make Discord bots since 5 months and Websites since more than 1 year.I develop bots using my JavaScript skills,And develop websites using Html in which i try to add CSS,JavaScript combinations.Sometimes it gets harder but i try to finish in time.If you ask me how much time it takes to make websites......it mostly depends on the Website theme,and same conditon goes with the discord bots developmental time.
+- 👋 Hi, I’m @Alphabetious.I am Interested in Computer Science.I mostly make Websites and working on them since more than 3 years.I develop websites using Html in which i try to add CSS,JavaScript combinations.Sometimes it gets harder but i try to finish in time.If you ask me how much time it takes to make websites......it mostly depends on the Website theme.
 
- - Check out my discord bot -  <a href="https://discord.com/oauth2/authorize?client_id=835065602137522176&scope=bot&permissions=388160"  target="_blank">Elixerus Discord Bot</a> 
+
+ 
