@@ -1,4 +1,4 @@
-Hello!!!!👋, I code stuff.....</h3>
+<h3 align="left">Hello!!!!👋, I code stuff.....</h3>
 <hr>
 <h3 align="left">Languages and tools that i am familiar with:-</h3>
 <p>
