@@ -1,7 +1,5 @@
 Hello👋!!!! , I code stuff and interested in Computer Science.
 
-<a>https://img.shields.io/nodeping/status/https://discord.com/channels/@me/732777039257665566?down_color=lightgrey&down_message=offline&style=plastic&up_color=brightgreen&up_message=online</a>
-
 <h3 align="left">Languages and tools that i am familiar with:-</h3>
 <p>
 </p>
