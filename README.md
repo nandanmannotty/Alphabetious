@@ -1,4 +1,4 @@
-<h3 align="left">Hello👋!!!! , I code stuff.....</h3>
+<h3 align="left">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !!!! , I code stuff.....</h3>
 <hr>
 <h3 align="left">Languages and tools that i am familiar with:-</h3>
 <p>
