@@ -1,4 +1,4 @@
-Hello👋!!!! , I code stuff and interested in Computer Science.
+Hello👋!!!! , I code stuff.....
 
 <h3 align="left">Languages and tools that i am familiar with:-</h3>
 <p>
